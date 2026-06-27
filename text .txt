@@ -3,4 +3,6 @@ feijfief
 fieofoe
 i test the pull command 
 so i edit this file in github
+now i test git fetch
+
 
